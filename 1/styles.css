@@ -1,0 +1,16 @@
+.menubox ul{
+    width: 200px;
+    background: rgb(231, 211, 130);
+    box-shadow: 10px 10px 0 rgb(126, 5, 5);
+    color: rgb(116, 4, 4);
+    border: 2px solid grey;
+    margin-left: 20px;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+.menubox li{
+    margin-left: 5px;
+    line-height: 25px;
+    list-style-type: none;
+}
